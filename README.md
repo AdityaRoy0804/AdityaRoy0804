@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aditya Kumar Roy
-- 👀 I’m interested in data science, AI, and analyzing insights through data visualization.
+- 👀 I’m interested in data science,machine learning,artificial intelligence,and analyzing insights through data visualization.
 - 🌱 I’m currently learning advanced topics in Artificial Intelligence,Data Science, Machine Learning.
 - 💞️ I’m looking to collaborate on collaborate on data analytics projects, machine learning models, and AI-driven solutions.
 - 📫 How to reach me You can connect with me here or on LinkedIn(https://www.linkedin.com/in/aditya-kumar-roy-257a1428a/).
