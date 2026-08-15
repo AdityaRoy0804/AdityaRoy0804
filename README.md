@@ -21,8 +21,8 @@ My journey started with Machine Learning and Data Science, but somewhere along t
 | Area | Tools & Technologies |
 |---|---|
 | **Languages** | Python, Java, JavaScript, C/C++, R, SQL |
-| **Frontend** | HTML5, CSS3, Tailwind CSS, Bootstrap |
-| **Backend** | FastAPI, Flask, Node.js *(familiar)*, REST APIs, Spring Boot *(learning)* |
+| **Frontend** | HTML5, CSS3, Bootstrap |
+| **Backend** | FastAPI, Flask, Node.js *(familiar)*, REST APIs, Spring Boot |
 | **AI / ML** | Scikit-learn, TensorFlow, Keras, NLP, Computer Vision, SHAP, RAG, LangChain |
 | **Databases** | MySQL, SQL Server, Supabase (PostgreSQL), CRUD Operations |
 | **Cloud & DevOps** | Docker, AWS, GitHub Actions, CI/CD concepts |
